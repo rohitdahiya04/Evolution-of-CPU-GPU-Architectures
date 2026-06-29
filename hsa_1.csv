@@ -1,0 +1,10 @@
+Year,Architecture,CPU,GPU,NPU,Memory
+2000,CPU-Centric,1,0,0,Separate
+2006,CPU + GPU (CUDA),1,1,0,Separate
+2008,CPU + GPU (OpenCL),1,1,0,Separate
+2014,HSA,1,1,0,Unified
+2020,AI Heterogeneous,1,1,1,Unified
+2022,Grace Hopper,1,1,0,Unified
+2023,AMD MI300 APU,1,1,0,Unified
+2024,CPU + GPU + NPU,1,1,1,Unified
+2025,AI-Native Computing,1,1,1,Unified

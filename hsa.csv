@@ -1,0 +1,6 @@
+Year,Platform,CPU,GPU,NPU,Memory_GB,Bandwidth_TBps,TFLOPS,TDP_Watts,Memory_Model
+2012,Tesla K20,Xeon,K20,No,5,0.21,3.5,225,Separate
+2016,P100,Xeon,P100,No,16,0.72,21,250,Separate
+2020,A100,EPYC,A100,No,40,1.55,312,400,Unified
+2022,H100,Grace,H100,No,80,3.35,989,700,Unified
+2024,B200,Grace,B200,No,180,8.00,2250,1000,Unified

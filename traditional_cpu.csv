@@ -1,0 +1,8 @@
+Processor,Release Year,Core Count,Base Frequency,Max Boost Frequency,Architecture Node
+Intel Core 2 Duo (E6600),2006,2,2.40 GHz,N/A,65 nm
+Intel Core i7-920,2008,4,2.66 GHz,2.93 GHz,45 nm
+AMD FX-8150,2011,8,3.60 GHz,4.20 GHz,32 nm
+AMD Ryzen 7 1800X,2017,8,3.60 GHz,4.00 GHz,14 nm
+AMD Ryzen 9 3950X,2019,16,3.50 GHz,4.70 GHz,7 nm
+AMD EPYC Genoa (9654),2022,96,2.40 GHz,3.70 GHz,5 nm
+AMD EPYC Turin (9965),2024,192,2.25 GHz,3.70 GHz,3 nm

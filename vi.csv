@@ -1,0 +1,5 @@
+Platform,Memory_GB,Bandwidth_TBps,AI_TFLOPS,TDP
+Intel Gaudi 3,128,3.7,1835,900
+AMD MI300X,192,5.3,2614,750
+Grace Hopper GH200,480,4.8,1000,1000
+Blackwell B200,180,8.0,4500,1000

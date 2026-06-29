@@ -1,0 +1,10 @@
+Year,Model,Parameters_Billion
+2012,AlexNet,0.06
+2014,VGG-16,0.138
+2017,Transformer,0.065
+2018,BERT Large,0.34
+2019,GPT-2,1.5
+2020,GPT-3,175
+2022,PaLM,540
+2023,Llama 2,70
+2024,Llama 3.1,405
